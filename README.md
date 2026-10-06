@@ -22,6 +22,13 @@ Lima / Miraflores, Perú 🇵🇪  |  Madrid, España 🇪🇸
 
 </div>
 
+
+<!-- GitHub Stats & Contributions Highlight -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jordyalania&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090c15&title_color=3b82f6&icon_color=38bdf8&text_color=94a3b8" height="150" alt="Jordy Alania GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordyalania&theme=tokyonight&hide_border=true&background=090c15&stroke=3b82f6&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8" height="150" alt="Jordy Alania Streak" />
+</p>
+
 ## 📌 Tabla de Contenidos
 - [🎯 Perfil Ejecutivo](#-perfil-ejecutivo)
 - [📱 Proyectos Insignia en Producción](#-proyectos-insignia-en-producción)
