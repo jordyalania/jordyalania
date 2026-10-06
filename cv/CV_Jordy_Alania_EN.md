@@ -9,7 +9,7 @@
 
 ## 🎯 EXECUTIVE SUMMARY
 
-**Tech Lead, Solutions Architect, and Full-Stack & Mobile Engineer** holding dual degrees: **B.S. in Telecommunications Engineering (PUCP)** and an **International MBA (UPM Madrid)**. Brings 6+ years of experience leading engineering teams, architecting distributed cloud systems, and shipping mission-critical production products.
+**Tech Lead, Solutions Architect, and Full-Stack & Mobile Engineer** holding triple degrees: **B.S. in Telecommunications Engineering (PUCP)**, **International MBA (UPM Madrid)**, and **Master in Marketing (EAE Business School)**. Brings 6+ years of experience leading engineering teams, architecting distributed cloud systems, and shipping mission-critical production products.
 
 - **Mobile Ecosystem in Production**: Published apps on **Apple App Store** and **Google Play Store** with Capacitor and Flutter, featuring high-priority background push notifications (FCM & APNs), dynamic deep linking, and release key management.
 - **AI Engineering & MCP (Top 1% Market Tier)**: Pioneered serverless **Model Context Protocol (MCP)** deployment on **Supabase Edge Functions (Deno)**, autonomous vision-language action agents for physical Android phones (**Open-AutoGLM** via ADB), and semantic RAG vector stores (**ChromaDB + Vertex AI**).
@@ -77,6 +77,8 @@
 
 ## 🎓 EDUCATION & CREDENTIALS
 
+- **Master in Marketing Management & Commercial Management**  
+  *EAE Business School* — Madrid / Barcelona, Spain
 - **International MBA (Master of Business Administration)**  
   *Universidad Politécnica de Madrid (UPM)* — Madrid, Spain
 - **B.S. in Telecommunications Engineering**  

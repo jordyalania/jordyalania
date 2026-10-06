@@ -8,7 +8,7 @@
 
 ## 🎯 1. Identidad y Propuesta de Valor (Executive Summary)
 
-**Jordy Bryan Alania Guadalupe** es **Tech Lead, Solutions Architect e Ingeniero de Software Full-Stack & Mobile** con doble titulación: **Ingeniero de Telecomunicaciones por la Pontificia Universidad Católica del Perú (PUCP)** y **MBA Internacional por la Universidad Politécnica de Madrid (UPM)**.
+**Jordy Bryan Alania Guadalupe** es **Tech Lead, Solutions Architect e Ingeniero de Software Full-Stack & Mobile** con triple titulación: **Ingeniero de Telecomunicaciones por la Pontificia Universidad Católica del Perú (PUCP)** y **MBA Internacional (UPM)** y **Máster en Dirección de Marketing (EAE Business School)**.
 
 Combina una base técnica profunda en arquitecturas modernas con visión estratégica de producto, consultoría y crecimiento empresarial. Su experiencia real cubre todo el ciclo de vida de productos tecnológicos:
 1. **Desarrollo y Publicación Móvil**: Aplicaciones en producción en **Google Play Store** y **Apple App Store** con Capacitor y Flutter, incluyendo arquitectura de notificaciones push críticas, certificados de release, deep linking y pasarelas de pago.
@@ -125,6 +125,7 @@ Combina una base técnica profunda en arquitecturas modernas con visión estrat�
 - Arquitectura de 4 capas (4-Layer Canvas), micro-frontends, modelado relacional y consumo/exposición de APIs REST empresariales.
 
 ### Formación en Dirección y Negocio
+- **Máster en Marketing y Gestión Comercial (EAE Business School)**.
 - **MBA Internacional (Universidad Politécnica de Madrid - UPM)**.
 - Formulación de planes maestros, propuestas de valor para pequeñas y medianas empresas (PYMEs) y estructuración de modelos de monetización.
 - Redacción de expedientes técnicos para convocatorias de fondos concursables de innovación y prevención climática (*ProCiencia / Concytec / Orgullo Emprendedor*).

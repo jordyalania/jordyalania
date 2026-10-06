@@ -9,7 +9,7 @@
 
 ## 🎯 PERFIL PROFESIONAL
 
-**Tech Lead, Solutions Architect e Ingeniero de Software Full-Stack & Mobile** con doble titulación: **Ingeniero de Telecomunicaciones (PUCP)** y **MBA Internacional (UPM)**. Cuenta con más de 6 años liderando el diseño, desarrollo e implantación de plataformas de misión crítica.
+**Tech Lead, Solutions Architect e Ingeniero de Software Full-Stack & Mobile** con triple titulación: **Ingeniero de Telecomunicaciones (PUCP)**, **MBA Internacional (UPM)** y **Máster en Marketing (EAE Business School)**. Cuenta con más de 6 años liderando el diseño, desarrollo e implantación de plataformas de misión crítica.
 
 Especialista en llevar productos a producción real:
 - **Ecosistema Móvil**: Aplicaciones en producción masiva en **Google Play Store** y **Apple App Store** con Capacitor y Flutter, integrando arquitecturas de notificaciones push prioritarias (FCM/APNs), llaves de firma criptográfica y deep linking.
@@ -77,6 +77,8 @@ Especialista en llevar productos a producción real:
 
 ## 🎓 EDUCACIÓN Y TITULACIONES
 
+- **Máster en Dirección de Marketing y Gestión Comercial**  
+  *EAE Business School* — Madrid / Barcelona, España
 - **MBA Internacional (Master of Business Administration)**  
   *Universidad Politécnica de Madrid (UPM)* — Madrid, España
 - **Ingeniería de Telecomunicaciones**  

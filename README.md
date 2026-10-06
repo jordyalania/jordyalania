@@ -5,6 +5,7 @@
 
 [![PUCP Alumni](https://img.shields.io/badge/PUCP-Ingeniería_de_Telecomunicaciones-002F6C?style=for-the-badge&logo=academic-pages&logoColor=white)](https://pucp.edu.pe)
 [![UPM MBA](https://img.shields.io/badge/UPM_Madrid-MBA_Internacional-B5121B?style=for-the-badge&logo=academia&logoColor=white)](https://upm.es)
+[![EAE Business School](https://img.shields.io/badge/EAE_Business_School-M%C3%A1ster_en_Marketing-E30613?style=for-the-badge&logo=academia&logoColor=white)](https://eae.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordyalania)
 [![Email](https://img.shields.io/badge/Email-jordy.b941901%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordy.b941901@gmail.com)
 
@@ -12,7 +13,7 @@
 Lima / Miraflores, Perú 🇵🇪  |  Madrid, España 🇪🇸
 ```
 
-> **Ingeniero de Telecomunicaciones (PUCP)** y **MBA Internacional (UPM)**. Especialista en llevar productos de software desde la concepción hasta producción masiva: aplicaciones móviles publicadas en App Store y Google Play, servidores Model Context Protocol (MCP) serverless en el Edge, agentes autónomos visuales, IoT con microcontroladores ESP32 y Facturación Electrónica SUNAT con firma digital criptográfica.
+> **Ingeniero de Telecomunicaciones (PUCP)**, **MBA Internacional (UPM)** y **Máster en Marketing (EAE Business School)**. Especialista en llevar productos de software desde la concepción hasta producción masiva: aplicaciones móviles publicadas en App Store y Google Play, servidores Model Context Protocol (MCP) serverless en el Edge, agentes autónomos visuales, IoT con microcontroladores ESP32 y Facturación Electrónica SUNAT con firma digital criptográfica.
 
 ---
 
