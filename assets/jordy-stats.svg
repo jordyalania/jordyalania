@@ -65,8 +65,8 @@
   <!-- Metric 4: AI & Architecture Specialization -->
   <g transform="translate(25, 158)">
     <path d="M7 1l1.8 3.6 4 .6-2.9 2.8.7 4-3.6-1.9-3.6 1.9.7-4-2.9-2.8 4-.6z" fill="#f59e0b" />
-    <text x="24" y="11" class="label">Architecture Specialization:</text>
-    <text x="180" y="11" class="value">Model Context Protocol (MCP)</text>
+    <text x="24" y="11" class="label">Top Specialization:</text>
+    <text x="165" y="11" class="value">Model Context Protocol (MCP)</text>
   </g>
 
   <!-- Rank Gauge (Right Side) -->
@@ -80,7 +80,7 @@
     <!-- Inner subtle fill -->
     <circle cx="0" cy="0" r="38" fill="#090d16" fill-opacity="0.8" />
     <!-- Texts -->
-    <text x="0" y="5" class="rank-text">S+</text>
-    <text x="0" y="22" class="rank-sub">ELITE TECH LEAD</text>
+    <text x="0" y="4" class="rank-text">S+</text>
+    <text x="0" y="19" class="rank-sub" style="font-size: 8.5px; letter-spacing: 0.6px;">ELITE TECH LEAD</text>
   </g>
 </svg>
