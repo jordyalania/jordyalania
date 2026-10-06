@@ -124,6 +124,12 @@ Combina una base técnica profunda en arquitecturas modernas con visión estrat�
 - Más de 5 años de experiencia liderando y construyendo aplicaciones empresariales sobre OutSystems.
 - Arquitectura de 4 capas (4-Layer Canvas), micro-frontends, modelado relacional y consumo/exposición de APIs REST empresariales.
 
+### Ecosistema de Startups, Incubadoras & Aceleración
+- **Wayra (Telefónica Open Innovation)**: Participación en programas de aceleración para validación de producto, modelos B2B y escalabilidad técnica.
+- **Santander X**: Programas de innovación tecnológica y competencias globales de emprendimiento de Banco Santander.
+- **Peru Tech Week (Vertical Turismo / TravelTech)**: Participación activa con soluciones digitales de automatización hotelera e IA aplicada al turismo.
+- **Fondos de Innovación**: Elaboración de planes técnicos para fondos de ProCiencia, Concytec y Orgullo Emprendedor.
+
 ### Formación en Dirección y Negocio
 - **Máster en Marketing y Gestión Comercial (EAE Business School)**.
 - **MBA Internacional (Universidad Politécnica de Madrid - UPM)**.

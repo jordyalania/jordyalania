@@ -63,6 +63,13 @@
 
 ---
 
+## 🚀 ENTREPRENEURSHIP, INCUBATORS & ACCELERATORS
+
+- **Wayra (Telefónica Open Innovation)**: Participated in Telefónica's premier startup acceleration program, focusing on tech validation and B2B SaaS scalability.
+- **Santander X**: Selected participant in Banco Santander's global entrepreneurship and tech innovation programs.
+- **Peru Tech Week (TravelTech & Hospitality Vertical)**: Active participant showcasing hospitality automation, dynamic channel management, and applied AI for the travel industry.
+- **Innovation Grants & Contests**: Technical formulation of public funding applications for innovation and climate risk mitigation (*ProCiencia / Concytec / Orgullo Emprendedor*).
+
 ## 🛠️ TECHNICAL SKILLS
 
 - **Mobile Development**: Flutter, Dart, Capacitor, Swift, Android Native, FCM Push, APNs, Deep Linking, App Store Connect, Google Play Console.

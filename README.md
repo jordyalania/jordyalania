@@ -6,6 +6,9 @@
 [![PUCP Alumni](https://img.shields.io/badge/PUCP-Ingeniería_de_Telecomunicaciones-002F6C?style=for-the-badge&logo=academic-pages&logoColor=white)](https://pucp.edu.pe)
 [![UPM MBA](https://img.shields.io/badge/UPM_Madrid-MBA_Internacional-B5121B?style=for-the-badge&logo=academia&logoColor=white)](https://upm.es)
 [![EAE Business School](https://img.shields.io/badge/EAE_Business_School-M%C3%A1ster_en_Marketing-E30613?style=for-the-badge&logo=academia&logoColor=white)](https://eae.es)
+[![Wayra](https://img.shields.io/badge/Wayra_Telef%C3%B3nica-Startup_Alumni-003245?style=for-the-badge&logo=telefonica&logoColor=white)](https://wayra.com)
+[![Santander X](https://img.shields.io/badge/Santander_X-Entrepreneurship-EC0000?style=for-the-badge&logo=santander&logoColor=white)](https://santanderx.com)
+[![Peru Tech Week](https://img.shields.io/badge/Peru_Tech_Week-Turismo_Tech-FF5A5F?style=for-the-badge&logo=compass&logoColor=white)](https://perutechweek.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordyalania)
 [![Email](https://img.shields.io/badge/Email-jordy.b941901%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordy.b941901@gmail.com)
 
@@ -22,6 +25,7 @@ Lima / Miraflores, Perú 🇵🇪  |  Madrid, España 🇪🇸
 ## 📌 Tabla de Contenidos
 - [🎯 Perfil Ejecutivo](#-perfil-ejecutivo)
 - [📱 Proyectos Insignia en Producción](#-proyectos-insignia-en-producción)
+- [🚀 Startups, Incubadoras & Ecosistema Emprendedor](#-startups-incubadoras--ecosistema-emprendedor)
 - [🤖 Inteligencia Artificial, Agentes & MCP](#-inteligencia-artificial-agentes--mcp)
 - [🛠️ Stack Tecnológico y Arquitectura](#️-stack-tecnológico-y-arquitectura)
 - [📄 Currículum Vitae](#-currículum-vitae)
@@ -67,6 +71,19 @@ Combino visión estratégica de negocio y rigor técnico de ingeniería para dis
 ### 5. 🔊 Portero Inteligente & Voice AI Offline (`esp32total`)
 - **Hardware**: Microcontroladores ESP32 y ESP32-S3 programados en C++ nativo con el framework **ESP-IDF**.
 - **Capacidades**: Audio digital bidireccional I2S, WebSockets y micro-servidor local con **Piper TTS** para síntesis neural de voz offline en milisegundos, modernizando intercomunicadores antiguos con bots de Telegram y apertura remota.
+
+---
+
+---
+
+## 🚀 Startups, Incubadoras & Ecosistema Emprendedor
+
+Experiencia directa en el ecosistema de innovación, formulación de modelos de negocio escalables, aceleración y levantamiento de fondos:
+
+- 🔵 **Wayra (Telefónica Open Innovation)**: Participación en el programa de aceleración de startups tecnológicas de Telefónica, validación de propuesta de valor y escalamiento B2B.
+- 🔴 **Santander X**: Competencias y programas globales de emprendimiento tecnológico universitario e innovación empresarial de Banco Santander.
+- 🌴 **Peru Tech Week (Vertical Turismo / TravelTech)**: Participación activa con soluciones de transformación digital, automatización de canales hoteleros e inteligencia artificial aplicada al turismo en Perú Tech Week.
+- 🏆 **Fondos Concursables & Subvenciones de Innovación**: Elaboración de expedientes técnicos y postulaciones para fondos de innovación abierta y prevención climática (*ProCiencia / Concytec / Orgullo Emprendedor*).
 
 ---
 

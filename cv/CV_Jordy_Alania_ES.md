@@ -63,6 +63,13 @@ Especialista en llevar productos a producción real:
 
 ---
 
+## 🚀 EMPRENDIMIENTO, INCUBADORAS & ACELERADORAS
+
+- **Wayra (Telefónica Open Innovation)**: Participación en el programa de aceleración de startups tecnológicas de Telefónica, validación de producto y escalamiento de soluciones digitales.
+- **Santander X**: Participación en convocatorias y programas de innovación abierta y emprendimiento universitario global de Banco Santander.
+- **Peru Tech Week (Vertical Turismo / TravelTech)**: Participación en el ecosistema de innovación con plataformas de automatización hotelera, canales digitales e IA aplicada al sector turismo.
+- **Fondos Concursables & Subvenciones**: Formulación de propuestas técnicas para convocatorias de fondos de innovación (*ProCiencia / Concytec / Orgullo Emprendedor*).
+
 ## 🛠️ COMPETENCIAS TÉCNICAS
 
 - **Desarrollo Mobile**: Flutter, Dart, Capacitor, Swift, Android Nativo, FCM Push Notifications, APNs, Deep Linking, App Store Connect, Google Play Console.
