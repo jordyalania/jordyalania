@@ -23,11 +23,25 @@ Lima / Miraflores, Perú 🇵🇪  |  Madrid, España 🇪🇸
 </div>
 
 
-<!-- GitHub Stats & Contributions Highlight -->
+
+<div align="center">
+
+### ⚡ Métricas Clave de Ingeniería & Arquitectura
+
+| 🟢 Actividad | 📱 Ecosistema Mobile | 🤖 Agentes & MCP | 🔐 FinTech & RegTech |
+| :---: | :---: | :---: | :---: |
+| **+1,600 Commits**<br/><sub>Contribuciones último año</sub> | **2 Apps en Stores**<br/><sub>Google Play & App Store</sub> | **Serverless Edge MCP**<br/><sub>Deno + Supabase RLS</sub> | **SUNAT UBL 2.1**<br/><sub>Firma Digital XAdES-BES</sub> |
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordyalania&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090c15&title_color=3b82f6&icon_color=38bdf8&text_color=94a3b8" height="150" alt="Jordy Alania GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordyalania&theme=tokyonight&hide_border=true&background=090c15&stroke=3b82f6&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8" height="150" alt="Jordy Alania Streak" />
+  <img src="https://img.shields.io/badge/Status-1%2C634_Contribuciones_Activas-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Active Contributions" />
+  <img src="https://img.shields.io/badge/Architecture-Top_1%25_MCP_Specialist-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Specialist" />
+  <img src="https://img.shields.io/badge/Focus-Tech_Lead_%26_Solutions_Architect-3B82F6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Role Focus" />
 </p>
+
+</div>
+
 
 ## 📌 Tabla de Contenidos
 - [🎯 Perfil Ejecutivo](#-perfil-ejecutivo)
