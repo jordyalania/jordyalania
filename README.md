@@ -29,8 +29,8 @@ Lima / Miraflores, Perú 🇵🇪  |  Madrid, España 🇪🇸
 ### ⚡ Métricas Clave de Ingeniería & Arquitectura
 
 <p align="center">
-  <img src="assets/github-stats.svg" alt="Jordy Alania GitHub Stats" width="49%" />
-  <img src="assets/streak-stats.svg" alt="Jordy Alania Engineering Streak" width="49%" />
+  <img src="assets/github-stats.svg?v=2" alt="Jordy Alania GitHub Stats" width="49%" />
+  <img src="assets/streak-stats.svg?v=2" alt="Jordy Alania Engineering Streak" width="49%" />
 </p>
 
 | 🟢 Actividad | 📱 Ecosistema Mobile | 🤖 Agentes & MCP | 🔐 FinTech & RegTech |
