@@ -28,6 +28,11 @@ Lima / Miraflores, Perú 🇵🇪  |  Madrid, España 🇪🇸
 
 ### ⚡ Métricas Clave de Ingeniería & Arquitectura
 
+<p align="center">
+  <img src="assets/github-stats.svg" alt="Jordy Alania GitHub Stats" width="49%" />
+  <img src="assets/streak-stats.svg" alt="Jordy Alania Engineering Streak" width="49%" />
+</p>
+
 | 🟢 Actividad | 📱 Ecosistema Mobile | 🤖 Agentes & MCP | 🔐 FinTech & RegTech |
 | :---: | :---: | :---: | :---: |
 | **+1,600 Commits**<br/><sub>Contribuciones último año</sub> | **2 Apps en Stores**<br/><sub>Google Play & App Store</sub> | **Serverless Edge MCP**<br/><sub>Deno + Supabase RLS</sub> | **SUNAT UBL 2.1**<br/><sub>Firma Digital XAdES-BES</sub> |
