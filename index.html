@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jordy Alania | Tech Lead & Solutions Architect</title>
+  <meta name="description" content="Portfolio y Perfil Profesional de Jordy Bryan Alania Guadalupe: Tech Lead, Solutions Architect, AI & Mobile Engineer.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #090c15;
+      --bg-card: rgba(18, 24, 38, 0.7);
+      --bg-card-hover: rgba(26, 34, 54, 0.85);
+      --border: rgba(255, 255, 255, 0.08);
+      --border-accent: rgba(59, 130, 246, 0.3);
+      --primary: #3b82f6;
+      --accent: #8b5cf6;
+      --cyan: #06b6d4;
+      --emerald: #10b981;
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --font-main: 'Outfit', sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: var(--font-main);
+      line-height: 1.6;
+      background-image: 
+        radial-gradient(circle at 15% 15%, rgba(59, 130, 246, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 85% 20%, rgba(139, 92, 246, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 50% 80%, rgba(6, 182, 212, 0.05) 0%, transparent 50%);
+      background-attachment: fixed;
+      padding: 0 1.5rem;
+    }
+
+    .container {
+      max-width: 1150px;
+      margin: 0 auto;
+      padding: 3rem 0;
+    }
+
+    header {
+      text-align: center;
+      padding: 3rem 1rem 2rem;
+      position: relative;
+    }
+
+    .badge-bar {
+      display: flex;
+      justify-content: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.35rem 0.85rem;
+      border-radius: 9999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.04);
+      backdrop-filter: blur(8px);
+    }
+    .badge-pucp { border-color: rgba(0, 47, 108, 0.5); color: #60a5fa; }
+    .badge-upm { border-color: rgba(181, 18, 27, 0.5); color: #f87171; }
+    .badge-status { border-color: rgba(16, 185, 129, 0.4); color: #34d399; }
+
+    h1 {
+      font-size: 3.2rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      margin-bottom: 0.75rem;
+      background: linear-gradient(135deg, #ffffff 40%, #93c5fd 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .subtitle {
+      font-size: 1.35rem;
+      font-weight: 500;
+      color: var(--text-muted);
+      margin-bottom: 1.25rem;
+    }
+
+    .bio {
+      max-width: 780px;
+      margin: 0 auto 2rem;
+      color: #cbd5e1;
+      font-size: 1.05rem;
+      line-height: 1.7;
+    }
+
+    .actions {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 3.5rem;
+    }
+
+    .btn {
+      padding: 0.75rem 1.4rem;
+      border-radius: 0.75rem;
+      font-weight: 600;
+      font-size: 0.95rem;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.2s ease;
+      cursor: pointer;
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+      color: white;
+      box-shadow: 0 4px 15px rgba(37, 99, 235, 0.35);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+    }
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(37, 99, 235, 0.5);
+    }
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text);
+      border: 1px solid var(--border);
+      backdrop-filter: blur(8px);
+    }
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.1);
+      transform: translateY(-2px);
+    }
+
+    .section-title {
+      font-size: 1.85rem;
+      font-weight: 700;
+      margin-bottom: 1.75rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+    .section-title span {
+      background: linear-gradient(135deg, var(--primary), var(--accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 4rem;
+    }
+
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 1.25rem;
+      padding: 1.75rem;
+      backdrop-filter: blur(12px);
+      transition: all 0.25s ease;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+    .card:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--border-accent);
+      transform: translateY(-3px);
+      box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+    }
+    .card-tag {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--cyan);
+      margin-bottom: 0.5rem;
+    }
+    .card h3 {
+      font-size: 1.35rem;
+      margin-bottom: 0.5rem;
+      color: white;
+    }
+    .card p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      flex-grow: 1;
+      margin-bottom: 1.25rem;
+      line-height: 1.6;
+    }
+    .pill-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+    }
+    .pill {
+      font-size: 0.75rem;
+      padding: 0.25rem 0.6rem;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 0.4rem;
+      color: #94a3b8;
+      font-family: var(--font-mono);
+    }
+
+    .stack-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 4rem;
+      background: var(--bg-card);
+      border-radius: 1rem;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    .stack-table th, .stack-table td {
+      padding: 1rem 1.25rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.95rem;
+    }
+    .stack-table th {
+      background: rgba(255, 255, 255, 0.03);
+      font-weight: 600;
+      color: #cbd5e1;
+    }
+    .stack-table td:first-child {
+      font-weight: 600;
+      color: white;
+      width: 25%;
+    }
+    .stack-table td:last-child {
+      color: var(--text-muted);
+    }
+
+    footer {
+      text-align: center;
+      padding: 3rem 0;
+      border-top: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+    footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    @media (max-width: 768px) {
+      h1 { font-size: 2.3rem; }
+      .subtitle { font-size: 1.15rem; }
+      .grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <div class="badge-bar">
+        <span class="badge badge-pucp">🎓 Telecomunicaciones · PUCP</span>
+        <span class="badge badge-upm">🏛️ MBA Internacional · UPM Madrid</span>
+        <span class="badge badge-status">🟢 Producción en Stores</span>
+      </div>
+
+      <h1>Jordy Bryan Alania</h1>
+      <p class="subtitle">Tech Lead · Solutions Architect · AI & Mobile Engineer</p>
+
+      <p class="bio">
+        Ingeniero y líder tecnológico con más de 6 años de experiencia creando productos reales: desde aplicaciones móviles en Apple App Store y Google Play con notificaciones críticas sismovolcánicas, hasta servidores Model Context Protocol (MCP) serverless en el Edge, hardware IoT con ESP32 y Facturación Electrónica SUNAT UBL 2.1 con firmas criptográficas.
+      </p>
+
+      <div class="actions">
+        <a href="./cv/CV_Jordy_Alania_ES.md" class="btn btn-primary" target="_blank">
+          📄 Ver CV Completo (ES)
+        </a>
+        <a href="./cv/CV_Jordy_Alania_EN.md" class="btn btn-secondary" target="_blank">
+          🇬🇧 Resume (English)
+        </a>
+        <a href="https://linkedin.com/in/jordyalania" class="btn btn-secondary" target="_blank">
+          💼 LinkedIn
+        </a>
+        <a href="mailto:jordy.b941901@gmail.com" class="btn btn-secondary">
+          📧 Contactar
+        </a>
+      </div>
+    </header>
+
+    <h2 class="section-title"><span>📱 Proyectos Insignia en Producción</span></h2>
+    <div class="grid">
+      <!-- Paltarumi -->
+      <div class="card">
+        <div class="card-tag">Mobile en Stores (v1.3.9)</div>
+        <h3>Paltarumi Mobile App</h3>
+        <p>App corporativa publicada en Google Play y App Store. Sistema crítico de notificaciones tempranas sismovolcánicas con FCM high-priority y sincronización en tiempo real.</p>
+        <div class="pill-list">
+          <span class="pill">Capacitor</span>
+          <span class="pill">React</span>
+          <span class="pill">Supabase RLS</span>
+          <span class="pill">FCM</span>
+          <span class="pill">APNs (.p8)</span>
+        </div>
+      </div>
+
+      <!-- SalsaBachata -->
+      <div class="card">
+        <div class="card-tag">Mobile en Stores</div>
+        <h3>SalsaBachata Platform</h3>
+        <p>Publicada en App Store y Google Play. Escaneo QR de alta velocidad para acreditación en eventos masivos y liquidación automatizada de comisiones a profesores.</p>
+        <div class="pill-list">
+          <span class="pill">Flutter</span>
+          <span class="pill">Dart</span>
+          <span class="pill">Supabase</span>
+          <span class="pill">QR Engine</span>
+          <span class="pill">Stores Release</span>
+        </div>
+      </div>
+
+      <!-- MCP Edge -->
+      <div class="card">
+        <div class="card-tag">AI Engineering & MCP</div>
+        <h3>OperaPrimaCouch (Serverless MCP)</h3>
+        <p>Servidor Model Context Protocol pionero desplegado 100% serverless en Supabase Edge Functions (Deno) para alimentar asistentes con bases relacionales bajo demanda.</p>
+        <div class="pill-list">
+          <span class="pill">MCP Protocol</span>
+          <span class="pill">Edge Functions</span>
+          <span class="pill">Deno</span>
+          <span class="pill">PostgreSQL</span>
+        </div>
+      </div>
+
+      <!-- SUNAT Invoicing -->
+      <div class="card">
+        <div class="card-tag">FinTech & RegTech</div>
+        <h3>Facturación SUNAT UBL 2.1</h3>
+        <p>Módulo independiente de facturación electrónica con firma digital criptográfica XAdES-BES (node-forge), validación de esquemas XML y comunicación SOAP directa para CDRs.</p>
+        <div class="pill-list">
+          <span class="pill">UBL 2.1</span>
+          <span class="pill">XAdES-BES</span>
+          <span class="pill">node-forge</span>
+          <span class="pill">SOAP Client</span>
+          <span class="pill">Culqi API v2</span>
+        </div>
+      </div>
+
+      <!-- ESP32 IoT -->
+      <div class="card">
+        <div class="card-tag">IoT & Voice AI</div>
+        <h3>Portero Inteligente (esp32total)</h3>
+        <p>Firmware C++ en ESP-IDF para ESP32-S3, streaming I2S bidireccional y síntesis de voz neural offline con Piper TTS para modernizar intercomunicadores con Telegram.</p>
+        <div class="pill-list">
+          <span class="pill">ESP-IDF</span>
+          <span class="pill">C++</span>
+          <span class="pill">I2S Audio</span>
+          <span class="pill">Piper TTS</span>
+          <span class="pill">WebSockets</span>
+        </div>
+      </div>
+
+      <!-- Visual Agent -->
+      <div class="card">
+        <div class="card-tag">Autonomous Agents</div>
+        <h3>Open-AutoGLM Android Agent</h3>
+        <p>Agente Vision-Language Action (VLA) con Novita AI y ChatGLM para operar teléfonos físicos Android autónomamente mediante captura y comandos ADB.</p>
+        <div class="pill-list">
+          <span class="pill">Vision-Language</span>
+          <span class="pill">ADB</span>
+          <span class="pill">Novita AI</span>
+          <span class="pill">Python</span>
+        </div>
+      </div>
+    </div>
+
+    <h2 class="section-title"><span>🛠️ Matriz de Arquitectura y Stack</span></h2>
+    <table class="stack-table">
+      <thead>
+        <tr>
+          <th>Área</th>
+          <th>Tecnologías y Estándares Dominados</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Mobile Ecosystem</td>
+          <td>Flutter, Capacitor, Dart, Swift, Android Native, FCM Push prioritario, APNs, App Store Connect, Google Play Console.</td>
+        </tr>
+        <tr>
+          <td>AI, Agentes & RAG</td>
+          <td>Model Context Protocol (MCP), ChromaDB, LlamaIndex, Google Cloud Vertex AI (Gemini), Novita AI, Open-AutoGLM, Piper TTS, Playwright.</td>
+        </tr>
+        <tr>
+          <td>Frontend & Web</td>
+          <td>React 18, TypeScript, Bun, Vite, Next.js, Tailwind CSS, TanStack, Shadcn UI, Glassmorphism, PWAs.</td>
+        </tr>
+        <tr>
+          <td>Backend & Edge</td>
+          <td>Supabase (PostgreSQL, RLS exhaustivo, plpgsql, Edge Functions, Realtime), Cloudflare Workers (Wrangler), Node.js, Prisma.</td>
+        </tr>
+        <tr>
+          <td>IoT & Embebidos</td>
+          <td>ESP32, ESP32-S3, C++, ESP-IDF nativo, comunicación de audio digital I2S, WebSockets.</td>
+        </tr>
+        <tr>
+          <td>FinTech & RegTech</td>
+          <td>Facturación SUNAT UBL 2.1, Firma Digital X.509 (node-forge), SOAP XML, Pasarela Culqi API v2, Trazabilidad B2B (GoldenCheck).</td>
+        </tr>
+        <tr>
+          <td>Enterprise Low-Code</td>
+          <td>OutSystems Reactive Web (5+ años de experiencia), Arquitectura 4-Layer Canvas, Micro-frontends empresariales.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <footer>
+      <p>© 2026 Jordy Bryan Alania Guadalupe · Lima, Perú & Madrid, España</p>
+      <p style="margin-top: 0.5rem;">
+        Repositorio listo para GitHub · <a href="https://github.com/jordyalania">github.com/jordyalania</a>
+      </p>
+    </footer>
+  </div>
+
+</body>
+</html>
